@@ -4,4 +4,5 @@
 - Docker
 
 ## Imagem Docker
+
 - docker pull thieghi/go-scratch:latest
